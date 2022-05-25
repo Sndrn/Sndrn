@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Thanks for visiting :)
+### Thanks for visiting :grinning:
 
 <!--
 **Sndrn/Sndrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
