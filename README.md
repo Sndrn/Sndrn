@@ -11,3 +11,6 @@ The 42's curriculum challenges the traditional learning model and provide an ind
 💻 My current goal is to deepen my knowledge in software engineering.
 
 ![code-coding](https://user-images.githubusercontent.com/89401289/171004051-3903e445-34e1-4e8e-959b-66b9cd455968.gif)
+
+
+For more information about the 42 cursus, please check my [42_cursus](https://github.com/Sndrn/42_cursus) repository.
