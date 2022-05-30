@@ -6,7 +6,7 @@
 
 The 42's curriculum challenges the traditional learning model and provide an industry-leading education. Thus in order to educate the next generation of software engineers.
 
---> For more information, please refer to my [42_cursus](https://github.com/Sndrn/42_cursus) repository.
+   --> For more information, please refer to my [42_cursus](https://github.com/Sndrn/42_cursus) repository.
 
 :compass: I am also exploring diverse programming languages and technologies on my own. 
 
