@@ -6,7 +6,7 @@
 
 The 42's curriculum challenges the traditional learning model and provide an industry-leading education. Thus in order to educate the next generation of software engineers.
 
-:compass: I am also exploring diverse programming languages and technologies. 
+:compass: I am also exploring diverse programming languages and technologies on my own. 
 
 💻 My current goal is to deepen my knowledge in software engineering.
 
