@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Thanks for visiting :grinning:
+### Welcome on my GitHub page :grinning:
 
 :woman_technologist: I am currently studying sotfware engineering at [42 Lausanne](https://www.42lausanne.ch/?gclid=EAIaIQobChMI-5eLloP79wIVhJBoCR1VEwNIEAAYASAAEgKuovD_BwE) which is part of a [world wide network](https://42.fr/en/network-42/).
 
