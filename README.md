@@ -10,7 +10,7 @@ The 42's curriculum challenges the traditional learning model and provide an ind
 
 :compass: I am also exploring diverse programming languages and technologies on my own.
 
---> For more information, please refer to my [tech_xploration](https://github.com/Sndrn/42_cursus) repository.
+--> For more information, please refer to my [tech_xploration](https://github.com/Sndrn/tech_xploration) repository.
 
 💻 My current goal is to deepen my knowledge in software engineering.
 
